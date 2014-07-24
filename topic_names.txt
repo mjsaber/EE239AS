@@ -1,0 +1,5 @@
+Anxiety
+Anxiety	Panic Attacks
+Anxiety	Social Anxiety
+Anxiety	Socialphobia
+Anxiety	Exposure Therapy
